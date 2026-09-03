@@ -9,3 +9,4 @@ canonifyURLs = true
   author = "你的名字"
   description = "记录技术与思考"
   highlight = true
+  avatar = "/avatar/avatar.webp"
