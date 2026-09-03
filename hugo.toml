@@ -2,8 +2,8 @@ baseURL = "https://staceykd.github.io/furina.github.io/"
 locale = 'zh-cn'
 title = 'My New Hugo Project'
 theme = "reimu"
-relativeURLs = true
-canonifyURLs = false
+relativeURLs = false   # 改为 false
+canonifyURLs = false   # 保持 false
 
 [params]
   author = "你的名字"
