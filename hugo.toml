@@ -2,11 +2,10 @@ baseURL = "https://staceykd.github.io/furina.github.io/"
 locale = 'zh-cn'
 title = 'My New Hugo Project'
 theme = "reimu"
-relativeURLs = true   # 改为 false
-canonifyURLs = false   # 保持 false
+relativeURLs = false
+canonifyURLs = true
 
 [params]
   author = "你的名字"
   description = "记录技术与思考"
-  # 主题特定配置，如是否显示侧边栏、是否启用代码高亮等
   highlight = true
