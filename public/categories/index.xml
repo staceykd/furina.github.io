@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Project</title>
+    <title>Categories on CTF 新手学习</title>
     <link>http://localhost:1313/furina.github.io/categories/</link>
-    <description>Recent content from My New Hugo Project</description>
+    <description>Recent content from CTF 新手学习</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     
-    <managingEditor>xxx@example.com (你的名字)</managingEditor>
-    <webMaster>xxx@example.com (你的名字)</webMaster>
+    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
+    <webMaster>xxx@example.com (D-Sketon)</webMaster>
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
