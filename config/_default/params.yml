@@ -690,7 +690,7 @@ player:
   # Meting（从网易云/QQ音乐拉取歌单）
   meting:
     enable: true                   # ✅ 开启
-    meting_api:                    # 留空使用默认 API
+    meting_api: https://api.qijieya.cn/meting/?type=playlist&id=690948120                   # 留空使用默认 API
     options:
       id: 690948120               # 替换成你自己的歌单 ID
       server: netease              # netease（网易云）| tencent（QQ）| xiami | kugou
