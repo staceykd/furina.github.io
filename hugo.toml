@@ -1,11 +1,11 @@
 baseURL = "https://staceykd.github.io/furina.github.io/"
 locale = 'zh-cn'
-title = 'My New Hugo Project'
+title = 'CTF 新手学习'
 theme = "reimu"
 relativeURLs = false
 canonifyURLs = true
 
 [params]
-  author = "你的名字"
-  description = "记录技术与思考"
+  author = "Furina"
+  description = "就随便玩玩，真的能成为CTFer吗？"
   highlight = true
