@@ -3939,22 +3939,14 @@ body .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap,
   color: var(--grey-7) !important;
 }
 
-#live2d-plugin {
+#waifu {
   right: 0 !important;
   left: auto !important;
 }
 
-#live2d-tool {
+#waifu-tool {
   right: auto !important;
   left: -10px !important;
-}
-
-#live2d-toggle {
-  z-index: 1;
-}
-
-#live2d-plugin {
-  z-index: 98 !important;
 }
 
 #waifu-toggle {
