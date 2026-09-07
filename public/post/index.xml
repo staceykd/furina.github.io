@@ -7,8 +7,8 @@
     <generator>Hugo</generator>
     <language>zh-cn</language>
     
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    <managingEditor>1587253748@qq.com (stacey)</managingEditor>
+    <webMaster>1587253748@qq.com (stacey)</webMaster>
     
     <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
     
@@ -25,10 +25,10 @@
       <title>我的第一篇博客</title>
       <link>http://localhost:1313/furina.github.io/post/first/</link>
       <pubDate>Thu, 03 Sep 2026 00:00:00 &#43;0000</pubDate>
-      <author>xxx@example.com (D-Sketon)</author>
+      <author>1587253748@qq.com (stacey)</author>
       <guid>http://localhost:1313/furina.github.io/post/first/</guid>
       <description>
-        <![CDATA[<h1>我的第一篇博客</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <![CDATA[<h1>我的第一篇博客</h1><p>作者：stacey（1587253748@qq.com）</p>
         
           <p>这是我的第一篇博客内容。
 有没有什么能自动更新日期的办法，真要我每篇文章都手动添加日期啊</p>
@@ -44,10 +44,10 @@
       <title>Hello World</title>
       <link>http://localhost:1313/furina.github.io/post/hello/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <author>xxx@example.com (D-Sketon)</author>
+      <author>1587253748@qq.com (stacey)</author>
       <guid>http://localhost:1313/furina.github.io/post/hello/</guid>
       <description>
-        <![CDATA[<h1>Hello World</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <![CDATA[<h1>Hello World</h1><p>作者：stacey（1587253748@qq.com）</p>
         
           <p>💘 博麗 霊夢 💘
 到底要怎么换主题啊？给我整吐了</p>

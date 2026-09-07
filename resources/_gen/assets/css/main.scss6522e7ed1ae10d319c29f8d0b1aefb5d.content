@@ -3,9 +3,9 @@
   --footer-icon: url(../images/taichi.png);
   --top-icon: url(../images/taichi.png);
   --sponsor-icon: url(../images/taichi.png);
-  --cursor-default: url(../images/cursor/reimu-cursor-default.png), auto;
-  --cursor-pointer: url(../images/cursor/reimu-cursor-pointer.png), pointer;
-  --cursor-text: url(../images/cursor/reimu-cursor-text.png), text;
+  --cursor-default: url(../images/cursor/normal_page_01.png), auto;
+  --cursor-pointer: url(../images/cursor/working_page_01.png), pointer;
+  --cursor-text: url(../images/cursor/text_page_01.png), text;
 }
 
 :root {
@@ -453,7 +453,7 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   text-size-adjust: 100%;
-  font-family: "Mulish", "Noto Serif SC", "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
+  font-family: "京华老宋体", "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif";
   transition: background 1s;
   color: var(--color-default);
   text-autospace: normal;
@@ -3844,7 +3844,7 @@ mjx-container::-webkit-scrollbar {
   border-radius: 10px !important;
   background: var(--color-wrap) !important;
   transition: all 0.3s;
-  font-family: "Mulish", "Noto Serif SC", "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif" !important;
+  font-family: "京华老宋体", "Mulish", "Noto Serif SC", "-apple-system", "PingFang SC", "Microsoft YaHei", "sans-serif" !important;
   box-shadow: none !important;
 }
 
