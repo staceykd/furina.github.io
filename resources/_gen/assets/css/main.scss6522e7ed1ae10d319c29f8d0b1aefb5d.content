@@ -3939,20 +3939,6 @@ body .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap,
   color: var(--grey-7) !important;
 }
 
-#waifu {
-  right: 0 !important;
-  left: auto !important;
-}
-
-#waifu-tool {
-  right: auto !important;
-  left: -10px !important;
-}
-
-#waifu-toggle {
-  z-index: 1;
-}
-
 [data-theme="dark"] ::-webkit-scrollbar, [data-theme="dark"] ::-webkit-scrollbar-track {
   background-color: #616161;
   border-radius: 10px;

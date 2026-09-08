@@ -8,8 +8,8 @@ lastmod: 2022-06-09T20:12:52+08:00
 
 ## 本站信息
 
-- 站名： 拔剑Sketon
-- 站长： 拔剑Sketon
+- 站名： Furina's Blog
+- 站长： Stacey
 
 ## 申请方法
 
